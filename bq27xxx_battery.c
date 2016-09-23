@@ -51,7 +51,7 @@
 #include <linux/interrupt.h>
 #include <asm/unaligned.h>
 
-#include <linux/power/bq27xxx_battery.h>
+#include "bq27xxx_battery.h"
 
 #define DRIVER_VERSION		"1.2.0"
 
